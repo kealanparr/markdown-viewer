@@ -1,6 +1,8 @@
 
 # Markdown Viewer / Browser Extension
 
+# I love this repo! But I forked it so I can change some tiny bits of the CSS and style the MD as I want to
+
 **Install: [Chrome]** / **[Firefox]** / **[Opera]** / **[Edge]**
 
 
