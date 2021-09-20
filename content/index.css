@@ -14,8 +14,8 @@ pre#_markdown {
 .markdown-body {
   overflow: auto;
 
-  min-width: 838px;
-  max-width: 838px;
+  min-width: 1400px;
+  max-width: 1400px;
 
   background-color: #fff;
   border: 1px solid #e1e4e8;
